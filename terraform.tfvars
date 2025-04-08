@@ -1,0 +1,5 @@
+region     = "us-central1"
+zone1      = "us-central1-a"
+zone2      = "us-central1-b"
+network    = "default"
+subnetwork = "default"
